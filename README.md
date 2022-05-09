@@ -1,12 +1,12 @@
 # QuestionApp2
 
-## HOW TO RUN
+### HOW TO RUN
 
-#### Server App
+#### server
  - Add an .env file with:
     - PORT
     - DB_CONNECTION
 
-#### App
+#### app
  - Add an .env file with:
    - REACT_APP_SERVER_URL
